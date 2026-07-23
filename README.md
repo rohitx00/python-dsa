@@ -58,3 +58,19 @@ python -m "0001-two-sum.0001-two-sum"
 - Python 3.x
 
 No external libraries are needed.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/rohitx00/python-dsa/tree/main/0075-sort-colors/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/rohitx00/python-dsa/tree/main/0075-sort-colors/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/rohitx00/python-dsa/tree/main/0075-sort-colors/) | Medium |
+<!---LeetCode Topics End-->
